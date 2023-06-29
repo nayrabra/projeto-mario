@@ -28,6 +28,6 @@ Bem-vindo à página de divulgação do filme Super Mario Bros! Neste projeto, d
 
 **Nayra Braga Barbosa**
 
-*Página desenvolvida como resultado de um estudo pelo canal do YouTube Dev em Dobro.*
-
 Linkedin: https://www.linkedin.com/in/nayra-barbosa/
+
+*Página desenvolvida como resultado de um estudo pelo canal do YouTube Dev em Dobro.*
