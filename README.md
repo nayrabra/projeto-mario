@@ -1,21 +1,33 @@
 # Super Mario Bros
-Olá, <br> Bem vindo à página de divulgação do filme Super Mario Bros.
-<br>Desenvolvido durante estudo pelo canal Dev em Dobro.
 
-<img width="1440" alt="super-mario" src="https://github.com/nayrabra/projeto-mario/assets/102299426/9a213505-ffd3-4aad-a481-8e5e20503cfc">
+Bem-vindo à página de divulgação do filme Super Mario Bros! Neste projeto, destaco o vídeo do trailer como plano de fundo da página em sua versão desktop, utilizando a função linear-gradient para criar um efeito de opacidade.
 
-## Ferramentas utilizadas:
+|:placard: Vitrine.Dev |                                         | 
+| -------------------- | ----------------------------------------|
+| :sparkles: Nome      | **Super Mario Bros**                    |
+| :label: Tecnologias  | HTML, CSS e JavaScript                  |
+| :rocket: URL         | https://portfolio-nayra-mbor.vercel.app/|
+| 🧰 Propriedades      | Flex-box                                |
+| 💻 Responsividade    | Celular, Tablet e Desktop               |
 
-* HTML
+## Versões do projeto:
 
-* CSS
+### Desktop
 
-* Flex-box
+<img width="1440" alt="super-mario-desktop" src="https://github.com/nayrabra/projeto-mario/assets/102299426/9a213505-ffd3-4aad-a481-8e5e20503cfc#vitrinedev">
 
-* JavaScript
+### Tablet
+
+<img width="373" alt="super-mario-tablet" src="https://github.com/nayrabra/projeto-mario/assets/102299426/87457528-36c5-4275-b2bb-be57c99331e4">
+
+### Celular
+
+<img width="292" alt="Captura de Tela 2023-06-29 às 11 28 32" src="https://github.com/nayrabra/projeto-mario/assets/102299426/e39e3693-9a89-4365-bebf-02f59cd5a7b7">
 
 ## Feito por:
 
-### Nayra Braga Barbosa
+**Nayra Braga Barbosa**
 
-### Linkedin: https://www.linkedin.com/in/nayra-barbosa/
+*Página desenvolvida como resultado de um estudo pelo canal do YouTube Dev em Dobro.*
+
+Linkedin: https://www.linkedin.com/in/nayra-barbosa/
